@@ -2,7 +2,10 @@
 ![Banner - Callum Dennis](https://github.com/CallumDennisIE/CallumDennisIE/assets/110825112/fb532c76-a70d-4f1a-a498-415018a4331b)
 # Callum Dennis
 
-### Hackathons
+## Contact
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/callum-dennis-ireland/)
+
+## Hackathons
 
 
 | ![Code Institute - January 2023 Hackathon 1st Place - 2023-01-24](https://github.com/CallumDennisIE/CallumDennisIE/assets/110825112/d911e393-0132-4436-a9a6-e6dc846a265c) | ![Code Institute - March 2023 Hackathon Participant - 2023-03-20](https://github.com/CallumDennisIE/CallumDennisIE/assets/110825112/7b129e9d-9ffc-4148-87a8-ee0d150b1a0e) | ![Code Institute - May 2023 Hackathon 1st Place - 2023-05-16](https://github.com/CallumDennisIE/CallumDennisIE/assets/110825112/577f00df-9059-4d5f-b9e5-33d28fa043eb) |
