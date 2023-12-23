@@ -5,6 +5,7 @@
 ## Contact
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/callum-dennis-ireland/)
 
+
 ## Hackathons
 
 
@@ -12,6 +13,8 @@
 |--|--|--|
 | ![Code Institute - June 2023 Hackathon 2nd Place - 2023-06-20](https://github.com/CallumDennisIE/CallumDennisIE/assets/110825112/75fec9d8-206b-4463-9468-b6f28ee4702b) | ![Code Institute - July 2023 Hackathon 3rd Place - 2023-07-18](https://github.com/CallumDennisIE/CallumDennisIE/assets/110825112/382d75bf-a6ee-4154-9613-17f352a3d383) | ![Code Institute - September 2023 Hybrid Hackathon 2nd Place - 2023-09-12](https://github.com/CallumDennisIE/CallumDennisIE/assets/110825112/9715f13f-13c0-4b1d-9a80-4e283cf14cee) |
 
+## Certifications
+![aws-certified-cloud-practitioner (2)](https://github.com/CallumDennisIE/CallumDennisIE/assets/110825112/45274463-ea75-410c-ba5c-615f2611919c)
 
 
 
