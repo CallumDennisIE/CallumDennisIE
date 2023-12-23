@@ -1,3 +1,5 @@
+
+![Banner - Callum Dennis](https://github.com/CallumDennisIE/CallumDennisIE/assets/110825112/fb532c76-a70d-4f1a-a498-415018a4331b)
 # Callum Dennis
 
 ### Hackathons
